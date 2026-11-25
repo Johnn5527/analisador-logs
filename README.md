@@ -79,7 +79,7 @@ Os logs em `exemplos/` são fictícios e usam IPs reservados para documentação
 
 <div align="center">
 
-Feito com por **[Johnny Lucas](https://github.com/Johnn5527)**
+Feito por **[Johnny Lucas](https://github.com/Johnn5527)**
 
 </div>
 
